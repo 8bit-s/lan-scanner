@@ -14,7 +14,7 @@ It discovers live hosts and open ports in your local subnet.
 - Non-blocking `connect` with timeout — never hangs on dead hosts
 
 ## Requirements
-- Linux or macOS
+- Window or Linux or macOS
 - CMake 3.10+
 - A C++17 compiler (g++ 9+, clang 10+)
 
