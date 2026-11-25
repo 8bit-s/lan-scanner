@@ -8,23 +8,23 @@
 A simple command-line LAN scanner written in C++17.
 It discovers live hosts and open ports in your local subnet.
 
-## ⚠️ Ethics & Legal Notice
+## Ethics & Legal Notice
 
 `lan-scanner` is a **diagnostic tool for networks you own or are explicitly
 authorized to test**. It is intended for home users, system administrators,
 and students working in a lab they control.
 
-### ✅ Allowed
+## Allowed
 - Your own home or office LAN
 - An isolated lab or virtual network
 - Authorized security testing **with written permission** from the network owner
 
-### ❌ Forbidden
+## Forbidden
 - Scanning third-party networks without permission
 - Scanning ISP, university, employer, or any infrastructure you do not own
 - Using scan results to gain unauthorized access to any system
 
-### ⚖️ Legal context
+## Legal context
 Laws in most jurisdictions criminalize unauthorized access to computer
 systems and networks. Port scanning by itself does not modify data, but
 **intent and context matter**: if a scan is a step toward an attack, it is
@@ -33,7 +33,7 @@ also violate the provider's Terms of Service and local telecommunications
 law. **You are responsible for knowing and following the laws that apply
 to you.**
 
-### 🧭 Rule of thumb
+## Rule of thumb
 > **If you don't own the network and don't have written permission — don't scan it.**
 
 By using this tool you accept full responsibility for how you use it.
