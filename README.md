@@ -1,5 +1,5 @@
 # lan-scanner
-
+> **For authorized security testing and self-hosted network diagnostics only.**
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-lightgrey)
